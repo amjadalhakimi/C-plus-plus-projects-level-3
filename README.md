@@ -1,1 +1,2 @@
-# C-plus-plus-projects-level-3
+# Algorithms & Problem Solving Level 3
+These are 50 projects in c++
